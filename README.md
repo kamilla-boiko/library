@@ -4,7 +4,7 @@ Django project for managing books and authors in Library
 
 ## Check it out!
 
-[Library project deployed to Heroku](PASTE_LINK_HERE)
+[Library project deployed to Heroku](https://library-univ.herokuapp.com/)
 
 ## Installation
 
